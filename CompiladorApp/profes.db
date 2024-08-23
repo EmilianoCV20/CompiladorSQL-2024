@@ -1,0 +1,5 @@
+profeID                      char(5)
+nombre                       char(30)
+apodo                        char(40)
+salario                      float
+faltas                       int

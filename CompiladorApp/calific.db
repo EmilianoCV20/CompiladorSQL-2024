@@ -1,0 +1,5 @@
+numctrl                      char(8)
+profeID                      char(5)
+materiaID                    char(10)
+periodo                      char(5) 
+califica                     int

@@ -1,0 +1,6 @@
+numctrl                      char(8)
+nombre                       char(20)
+edad                         int
+promedio                     float
+especiales                   int
+creditos                     float
